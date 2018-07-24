@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Terrain
+    uniqueID: 2701966137
+    locked: 0
+  - name: Shadow
+    uniqueID: 3929596959
+    locked: 0
+  - name: Character
+    uniqueID: 3229164587
+    locked: 0
+  - name: Trees and bushes
+    uniqueID: 404050641
+    locked: 0
