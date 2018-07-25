@@ -62,12 +62,16 @@ public class Character : MonoBehaviour {
                     animator.SetFloat("movex", movex);
                     animator.SetFloat("movey", movey);
                     transform.Translate(new Vector3(movex * Time.deltaTime * Speed, movey * Time.deltaTime * Speed, 0));
+                    if (movex < 0) movex *= -1;
+                    if (movey < 0) movey *= -1;
+                    animator.speed = (movex * 1.5f) + (movey * 1.5f);
                 }
             }
             if (myTouch.phase == TouchPhase.Ended){
                 touchpadImg.gameObject.SetActive(false);
                 animator.SetBool("isMoving", false);
                 touchballImg.gameObject.SetActive(false);
+                touchOrigin = new Vector2(0, 0);
             }
         }
 

@@ -120,6 +120,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 78ebae5ed9b3edeb216da437b99754a4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.Joystick
 a2efb0db652b8114d1ae7dd9a600d626 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.InputAxisScrollbar
 fe76270bd84ec3b6f2f6f92c69cf69da Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.AxisTouchButton
+c243b208bddff23de17ee20f00cec524 Assembly-CSharp.dll:.Tutorial_move
 a7d3c6c6948d99dd4116e659ddcf5ac4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.ButtonHandler
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.MobileControlRig
 c08b196716247885d3b27f7f282b2568 Assembly-CSharp.dll:Assets.Pixelation.Example.Scripts.ImageEffectBase
@@ -162,4 +163,3 @@ a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 26feb47618cdc181ff2a6942081f7f39 Assembly-CSharp.dll:Assets.Pixelation.Example.Scripts.PointLight
 6c15c7b0b86f9d97e742bbc3519c7ade Assembly-CSharp.dll:Assets.Pixelation.Scripts.Chunky
 5b95873405fe13edc3216d08f6caaf04 Assembly-CSharp.dll:Assets.Pixelation.Example.Scripts.Plane
-c243b208bddff23de17ee20f00cec524 Assembly-CSharp.dll:.Tutorial_move
